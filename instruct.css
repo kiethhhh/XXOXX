@@ -1,0 +1,15 @@
+.instruct {
+    padding: 15px 25px;
+    font-size: 25px;
+    font-family: 'Karmatic Arcade', sans-serif;
+    cursor: pointer;
+    background-color: transparent;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .instruct{
+    background-color: #8E68E6;
+  }
